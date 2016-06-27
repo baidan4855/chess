@@ -1,0 +1,67 @@
+body{
+	margin:0px;
+}
+.board{
+	background-image:url('../img/board.jpg');
+	background-repeat:no-repeat;
+  	width:600px;
+  	height:660px;
+  	padding:28px;
+}
+.board table{
+    border:0;
+}
+.board table td{
+	width:60px;
+	height:58px;
+	padding:0px;
+	display:inline-block;
+}
+.pieces{
+	width:50px;
+	height:50px;
+	margin:5px;
+}
+.pieces-black-jiang{
+	background:transparent url(../img/pieces.png) no-repeat 0px 0px
+}
+.pieces-black-shi{
+	background:transparent url(../img/pieces.png) no-repeat -50px 0px
+}
+.pieces-black-xiang{
+	background:transparent url(../img/pieces.png) no-repeat -100px 0px
+}
+.pieces-black-ma{
+	background:transparent url(../img/pieces.png) no-repeat -150px 0px
+}
+.pieces-black-che{
+	background:transparent url(../img/pieces.png) no-repeat -200px 0px
+}
+.pieces-black-pao{
+	background:transparent url(../img/pieces.png) no-repeat -250px 0px
+}
+.pieces-black-zu{
+	background:transparent url(../img/pieces.png) no-repeat -300px 0px
+}
+
+.pieces-red-jiang{
+	background:transparent url(../img/pieces.png) no-repeat 0px -50px
+}
+.pieces-red-shi{
+	background:transparent url(../img/pieces.png) no-repeat -50px -50px
+}
+.pieces-red-xiang{
+	background:transparent url(../img/pieces.png) no-repeat -100px -50px
+}
+.pieces-red-ma{
+	background:transparent url(../img/pieces.png) no-repeat -150px -50px
+}
+.pieces-red-che{
+	background:transparent url(../img/pieces.png) no-repeat -200px -50px
+}
+.pieces-red-pao{
+	background:transparent url(../img/pieces.png) no-repeat -250px -50px
+}
+.pieces-red-zu{
+	background:transparent url(../img/pieces.png) no-repeat -300px -50px
+}
