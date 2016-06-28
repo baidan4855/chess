@@ -1,0 +1,6 @@
+{
+  "name": "Chess",
+  "tagline": "中国象棋",
+  "body": "### 网页版中国象棋\r\n本程序为解决低版本的IE浏览器兼容性而开发，最终目标是全浏览器兼容\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
